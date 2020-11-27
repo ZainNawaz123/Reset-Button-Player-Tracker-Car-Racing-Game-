@@ -14,11 +14,11 @@ var track
 
 
 function preload(){
-carImg=loadImage("images/car1.png")
-carImg2=loadImage("images/car2.png")
-carImg3=loadImage("images/car3.png")
-carImg4=loadImage("images/car4.png")
-track=loadImage("images/track.jpg")
+carImg=loadImage("../images/car1.png")
+carImg2=loadImage("../images/car2.png")
+carImg3=loadImage("../images/car3.png")
+carImg4=loadImage("../images/car4.png")
+track=loadImage("../images/track.jpg")
 }
 
 
